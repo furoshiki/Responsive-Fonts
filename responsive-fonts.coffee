@@ -1,6 +1,7 @@
 ##############################################################
-# Responsive fonts
+# Responsive fonts v0.0.1 
 #   - Adjust font size by Windows width & height.
+#   - http://github.com/hiroshik850223/Responsive-Fonts
 # Copyright (c) 2014,2015 Hiroshi Kawada (furoshiki.github.io)
 # Released under the MIT license
 html = document.querySelector "html"
